@@ -1,6 +1,6 @@
 opcao=0
 while opcao<3:
-    print('Escolha a opca')
+    print('Escolha a opcao')
     print('1-Teste')
     print('2-Teste 2')
     print('3-Sair')
