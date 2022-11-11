@@ -7,3 +7,5 @@ while opcao<3:
     opcao=int(input(opcao))
     print('Voce escolheu', opcao)
 print('Saiu')
+print('Aplicação finalizada')
+print('Parabéns')
